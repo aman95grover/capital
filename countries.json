@@ -1,0 +1,241 @@
+
+{
+  "description": "A list of countries and its respective capitals.",
+"countries": [
+
+ {
+   "name": "Afghanistan",
+   "capital": "Kabul",
+   "capital2": ""
+ },
+ {
+   "name": "Albania",
+   "capital": "Tirana",
+   "capital2": ""
+ },
+ {
+   "name": "Andorra",
+   "capital": "Andorra la Vella",
+   "capital2": ""
+ },
+ {
+   "name": "Angola",
+   "capital": "Luanda",
+   "capital2": ""
+ },
+ {
+   "name": "Antigua and Barbuda",
+   "capital": "St. John’s",
+   "capital2": ""
+ },
+ {
+   "name": "Argentina",
+   "capital": "Buenos Aires",
+   "capital2": ""
+ },
+ {
+   "name": "Armenia",
+   "capital": "Yerevan",
+   "capital2": ""
+ },
+ {
+   "name": "Australia",
+   "capital": "Canberra",
+   "capital2": ""
+ },
+ {
+   "name": "Austria",
+   "capital": "Vienna",
+   "capital2": ""
+ },
+ {
+   "name": "Azerbaijan",
+   "capital": "Baku",
+   "capital2": ""
+ },
+ {
+   "name": "Bahamas",
+   "capital": "Nassau",
+   "capital2": ""
+ },
+ {
+   "name": "Bahrain",
+   "capital": "Manama",
+   "capital2": ""
+ },
+ {
+   "name": "Bangladesh",
+   "capital": "Dhaka",
+   "capital2": ""
+ },
+ {
+   "name": "Barbados",
+   "capital": "Bridgetown",
+   "capital2": ""
+ },
+ {
+   "name": "Belarus",
+   "capital": "Minsk",
+   "capital2": ""
+ },
+ {
+   "name": "Belgium",
+   "capital": "Brussels",
+   "capital2": ""
+ },
+ {
+   "name": "Belize",
+   "capital": "Belmopan",
+   "capital2": ""
+ },
+ {
+   "name": "Benin",
+   "capital": "Porto Novo",
+   "capital2": " Cotonou"
+ },
+ {
+   "name": "Bhutan",
+   "capital": "Thimphu",
+   "capital2": ""
+ },
+ {
+   "name": "Bolivia",
+   "capital": "La Paz and Sucre",
+   "capital2": ""
+ },
+ {
+   "name": "Bosnia and Herzegovina",
+   "capital": "Sarajevo",
+   "capital2": ""
+ },
+ {
+   "name": "Botswana",
+   "capital": "Gaborone",
+   "capital2": ""
+ },
+ {
+   "name": "Brazil",
+   "capital": "Brasília",
+   "capital2": ""
+ },
+ {
+   "name": "Brunei",
+   "capital": "Bandar Seri Begawan",
+   "capital2": ""
+ },
+ {
+   "name": "Bulgaria",
+   "capital": "Sofia",
+   "capital2": ""
+ },
+ {
+   "name": "Burkina Faso",
+   "capital": "Ouagadougou",
+   "capital2": ""
+ },
+ {
+   "name": "Burundi",
+   "capital": "Bujumbura",
+   "capital2": ""
+ },
+ {
+   "name": "Cambodia",
+   "capital": "Phnom Penh",
+   "capital2": ""
+ },
+ {
+   "name": "Cameroon",
+   "capital": "Yaoundé",
+   "capital2": ""
+ },
+ {
+   "name": "Canada",
+   "capital": "Ottawa",
+   "capital2": ""
+ },
+ {
+   "name": "Cape Verde",
+   "capital": "Praia",
+   "capital2": ""
+ },
+ {
+   "name": "Cayman Islands",
+   "capital": "George Town",
+   "capital2": ""
+ },
+ {
+   "name": "Central African Republic",
+   "capital": "Bangui",
+   "capital2": ""
+ },
+ {
+   "name": "Chad",
+   "capital": "N’Djamena",
+   "capital2": ""
+ },
+ {
+   "name": "Chile",
+   "capital": "Santiago",
+   "capital2": ""
+ },
+ {
+   "name": "China",
+   "capital": "Beijing",
+   "capital2": ""
+ },
+ {
+   "name": "Colombia",
+   "capital": "Bogotá",
+   "capital2": ""
+ },
+ {
+   "name": "Comoros",
+   "capital": "Moroni",
+   "capital2": ""
+ },
+ {
+   "name": "Costa Rica",
+   "capital": "San José",
+   "capital2": ""
+ },
+ {
+   "name": "Côte d’Ivoire",
+   "capital": "Yamoussoukro",
+   "capital2": ""
+ },
+ {
+   "name": "Croatia",
+   "capital": "Zagreb",
+   "capital2": ""
+ },
+ {
+   "name": "Cuba",
+   "capital": "Havana",
+   "capital2": ""
+ },
+ {
+   "name": "Cyprus",
+   "capital": "Nicosia",
+   "capital2": ""
+ },
+ {
+   "name": "Czech Republic",
+   "capital": "Prague",
+   "capital2": ""
+ },
+ {
+   "name": "Democratic Republic of the Congo",
+   "capital": "Kinshasa",
+   "capital2": ""
+ },
+ {
+   "name": "Denmark",
+   "capital": "Copenhagen",
+   "capital2": ""
+ },
+ {
+   "name": "Djibouti",
+   "capital": "Djibouti",
+   "capital2": ""
+ }
+]
